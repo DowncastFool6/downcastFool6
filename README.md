@@ -1,7 +1,7 @@
 ## Welcome to downcastFool6 👋
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/DowncastFool6/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/downcastFool6/count.svg" alt="Visitor's Count" />
 </div>
 
 <!--
