@@ -1,8 +1,6 @@
 ## Welcome to downcastFool6 👋
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{DowncastFool6}/count.svg" alt="Visitor's Count" />
-</div>
+
+<img src="https://github.com/DowncastFool6/downcastFool6/blob/main/bill_image.jpg" alt="Banner of a developer sitting in front of a desk">
 
 <!--
 **DowncastFool6/downcastFool6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
