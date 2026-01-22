@@ -32,8 +32,8 @@
 ## 🛠️ Languages and Tools
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,react,nextjs,postgres" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,git,figma" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,react,nextjs,postgres,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,git" />
 </p>
 <hr>
 
@@ -42,7 +42,6 @@
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=DowncastFool6&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="DowncastFool6's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=DowncastFool6i&theme=transparent&count_private=true&border_radius=10&locale=en" alt="DowncastFool6's" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=DowncastFool6&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="DowncastFool6's Most Used Languages" />
 </div>
 <hr>
