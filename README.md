@@ -19,9 +19,17 @@
    - HTML Essentials, Cisco Netacad
    - Introduction to Cybersecurity, Cisco Netacad
 
+## 📫 Contact & Links
+
+- ✉️ Email: vems.dev@proton.me
+
 
 <br>
 <div align="center">
+    <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Online-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+    
   <a href="https://www.linkedin.com/in/vissolela-cundi-a34b063a7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
@@ -31,8 +39,10 @@
 ## 🛠️ Languages and Tools
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,react,nextjs,postgres,python" />
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,git" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,python,vscode,vim,ae" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,pycharm,blender" />
+  <img src="https://skillicons.dev/icons?i=ubuntu,kali,sqlite,powershell,php,debian" />
+  <img src="https://skillicons.dev/icons?i=ps,npm,notion,linux,ai,github" />
 </p>
 <hr>
 
