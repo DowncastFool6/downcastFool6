@@ -13,13 +13,12 @@
 ## ✨ About me
 
 - 🌱 I’m currently learning:
-  <ul>
-    <il>Programming at IEFP, Portugal</il>
-    <il>Full-stack Bootcamp, Udemy</il>
-    <il>100 Days of Python, Udemy</il>
-    <il>HTML Essentials, Cisco Netacad</il>
-    <il>Introduction to Cybersecurity, Cisco Netacad</il>
-  </ul>
+   - Programming at IEFP, Portugal
+   - Full-stack Bootcamp, Udemy
+   - 100 Days of Python, Udemy
+   - HTML Essentials, Cisco Netacad
+   - Introduction to Cybersecurity, Cisco Netacad
+
 
 <br>
 <div align="center">
