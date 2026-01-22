@@ -41,6 +41,7 @@
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=DowncastFool6&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="DowncastFool6's GitHub Stats" />
+<br> 
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=DowncastFool6&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="DowncastFool6's Most Used Languages" />
 </div>
 <hr>
