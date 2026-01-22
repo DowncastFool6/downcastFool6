@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/Html.html to edit this template
+-->
+<html>
+    <head>
+        <title>Client Management - VC</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://use.typekit.net/nqc1aaq.css">
+        <link href="style.css" rel="stylesheet">
+    </head>
+    <body>
+        <h1>Client Management - VC</h1>      
+        <section>
+        <article>
+            <h2 class="text-left">Client Registration</h2>
+            
+            <form action="insert.jsp" method="post">
+                <label>Name: <input type="text" name="name" size="60" maxlength="100"
+                                    placeholder="Ex: John Cena" required></label><br><br>
+                <label>Address: <input type="text" name="address" size="60" maxlength="100"
+                        placeholder="Ex Rua da luz 123" required></label><br><br>
+                <label>Zone: <input type="text" name="zone" size="50" maxlength="50"
+                        placeholder="Ex Porto" required></label><br><br>
+                <label>NIF: <input type="text" name="nif" size="20" maxlength="9"
+                        placeholder="Ex 123456789" required></label><br><br>
+                <label>Volume of invoice: <input type="text" name="vol_invoice" size="10"
+                        placeholder="Ex 1000" required></label><br><br>
+                <input type="submit" value="Insert">
+                <input type="reset" value="Clear">                             
+            </form>
+            <br>
+            <div class="btn-wrapper-left">
+                <input type="button" value="Return to main page" onclick="history.go(-1)">
+            </div>
+            <br>
+        </article>
+        </section>
+    </body>
+</html>

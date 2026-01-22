@@ -1,0 +1,108 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 19 Jan 2026, 16:28:32
+    Author     : Vissolela Cundi
+*/
+
+body {
+    background-color:#aec6c4;
+    font-family: "new-order", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+
+h1 {
+    background-color: #474056;
+    color: #8A95A5;
+    text-align: center;
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    margin-left: 30px;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+
+a {
+    text-decoration: none;
+    color: #474056;
+}
+
+nav {
+    display: flex;
+    flex-wrap: nowrap;
+    text-align: center;
+    justify-content: center;  
+}
+
+nav a {
+    margin-top: 10px;
+    margin-left: auto; 
+    margin-right: auto;
+    display: inline-block;
+    padding: 15px 80px;
+    background-color: #8A95A5;
+    color: #242035;
+    border-radius: 10px;
+}
+
+nav a:hover{
+    background-color: #757083;
+    color: #242035;
+}
+
+table {
+    border: 0px;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+th {
+    background-color: #757083;
+}
+
+td {
+    text-align: center;
+    background-color: #757083;
+}
+
+form {
+    width: 80%;
+    background-color: #757083;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.btn-wrapper-right {
+    margin-right: 30px;
+    text-align: right;
+}
+
+.btn-wrapper-left {
+    margin-left: 30px;
+    text-align: left;
+}
+
