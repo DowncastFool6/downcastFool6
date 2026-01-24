@@ -1,4 +1,4 @@
-## Welcome to downcastFool6 👋
+## Welcome to DowncastFool6 Repo👋
 
 <img src="https://github.com/DowncastFool6/downcastFool6/blob/main/bill_image.jpg" alt="Banner of a developer sitting in front of a desk">
 
