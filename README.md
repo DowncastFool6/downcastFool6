@@ -38,11 +38,19 @@
 
 ## 🛠️ Languages and Tools
 <br>
+<p align="center">My Main Skills</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,python,vscode,vim,ae" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,pycharm,blender" />
-  <img src="https://skillicons.dev/icons?i=ubuntu,kali,sqlite,powershell,php,debian" />
-  <img src="https://skillicons.dev/icons?i=ps,npm,notion,linux,ai,github" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,python,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,pycharm" />
+  <img src="https://skillicons.dev/icons?i=sqlite,php,md" />
+</p>
+<br>
+<p align="center">Basic Knowledge & Understanding</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vim,ae,vue,vitest,vite,react" />
+  <img src="https://skillicons.dev/icons?i=js,blender,tailwind,svg"/>
+  <img src="https://skillicons.dev/icons?i=ubuntu,kali,powershell,js,debian,nodejs" />
+  <img src="https://skillicons.dev/icons?i=ps,npm,notion,linux,ai,vim,postgres,bootstrap" />
 </p>
 <hr>
 
