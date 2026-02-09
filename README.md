@@ -8,7 +8,7 @@
 
 ### An upcoming full-stack software engineer. 
 
-#### This repo is my self-directed software development journey, showing projects created while studying independently. It includes work in my programming languages, along with the tools and technologies used. This features both structured learning projects and experimental work focused on exploration, practice, and continuous skill improvement.
+#### This repo contains my self development journey, showing projects created while studying independently. It includes work in various programming languages, along with the tools and technologies used. This features both structured learning projects and experimental work focused on exploration, practice, and continuous skill improvement.
 
 ## ✨ About me
 
