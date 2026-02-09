@@ -17,6 +17,8 @@
    - Full-stack Bootcamp, Udemy
    - 100 Days of Python, Udemy
    - HTML Essentials, Cisco Netacad
+   - CSS Essentials, Cisco Netacad
+   - JavaScript Essentials 1, Cisco Netacad
    - Introduction to Cybersecurity, Cisco Netacad
 
 ## 📫 Contact & Links
@@ -27,7 +29,7 @@
 <br>
 <div align="center">
     <a href="https://downcastfool6.github.io/vems-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Online-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/CV-Online-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
     
   <a href="https://www.linkedin.com/in/vissolela-cundi-a34b063a7/" target="_blank">
@@ -58,7 +60,9 @@
 
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=DowncastFool6&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="DowncastFool6's GitHub Stats" />
+    
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DowncastFool6" alt="DowncastFool6's GitHub Stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=DowncastFool6" alt="DowncastFool6's GitHub Stats" />
 <br> 
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=DowncastFool6&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="DowncastFool6's Most Used Languages" />
 </div>
