@@ -28,7 +28,7 @@
 
 <br>
 <div align="center">
-    <a href="https://downcastfool6.github.io/vems-portfolio/" target="_blank">
+    <a href="https://downcastfool6.github.io/vems-online-cv/" target="_blank">
     <img src="https://img.shields.io/badge/CV-Online-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
     
