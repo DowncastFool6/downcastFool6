@@ -1,0 +1,14 @@
+D:\cundi\Documents\Work_Study\Programming\IEFP\C#\CSharp_Exercise1\bin\Debug\net8.0\CSharp_Exercise1.exe
+D:\cundi\Documents\Work_Study\Programming\IEFP\C#\CSharp_Exercise1\bin\Debug\net8.0\CSharp_Exercise1.deps.json
+D:\cundi\Documents\Work_Study\Programming\IEFP\C#\CSharp_Exercise1\bin\Debug\net8.0\CSharp_Exercise1.runtimeconfig.json
+D:\cundi\Documents\Work_Study\Programming\IEFP\C#\CSharp_Exercise1\bin\Debug\net8.0\CSharp_Exercise1.dll
+D:\cundi\Documents\Work_Study\Programming\IEFP\C#\CSharp_Exercise1\bin\Debug\net8.0\CSharp_Exercise1.pdb
+D:\cundi\Documents\Work_Study\Programming\IEFP\C#\CSharp_Exercise1\obj\Debug\net8.0\CSharp_Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+D:\cundi\Documents\Work_Study\Programming\IEFP\C#\CSharp_Exercise1\obj\Debug\net8.0\CSharp_Exercise1.AssemblyInfoInputs.cache
+D:\cundi\Documents\Work_Study\Programming\IEFP\C#\CSharp_Exercise1\obj\Debug\net8.0\CSharp_Exercise1.AssemblyInfo.cs
+D:\cundi\Documents\Work_Study\Programming\IEFP\C#\CSharp_Exercise1\obj\Debug\net8.0\CSharp_Exercise1.csproj.CoreCompileInputs.cache
+D:\cundi\Documents\Work_Study\Programming\IEFP\C#\CSharp_Exercise1\obj\Debug\net8.0\CSharp_Exercise1.dll
+D:\cundi\Documents\Work_Study\Programming\IEFP\C#\CSharp_Exercise1\obj\Debug\net8.0\refint\CSharp_Exercise1.dll
+D:\cundi\Documents\Work_Study\Programming\IEFP\C#\CSharp_Exercise1\obj\Debug\net8.0\CSharp_Exercise1.pdb
+D:\cundi\Documents\Work_Study\Programming\IEFP\C#\CSharp_Exercise1\obj\Debug\net8.0\CSharp_Exercise1.genruntimeconfig.cache
+D:\cundi\Documents\Work_Study\Programming\IEFP\C#\CSharp_Exercise1\obj\Debug\net8.0\ref\CSharp_Exercise1.dll
