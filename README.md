@@ -25,6 +25,8 @@
 
 **Service Operations Management Platform** — a full-stack internal web application for an IT services company, built entirely from scratch over a structured 30-day sprint.
 
+Checkout the demo at: vems-somp.org
+
 | | |
 |---|---|
 | **Stack** | Laravel 11 · PHP 8.3 · Livewire v3 · MySQL 8 · Redis · Tailwind CSS v3 |
