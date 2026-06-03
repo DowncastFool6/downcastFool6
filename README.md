@@ -25,7 +25,7 @@
 
 **Service Operations Management Platform** — a full-stack internal web application for an IT services company, built entirely from scratch over a structured 30-day sprint.
 
-Checkout the demo at: vems-somp.org
+Checkout the demo at: <a href="https://vems-somp.org">vems-somp.org</a>
 
 | | |
 |---|---|
@@ -57,9 +57,11 @@ Checkout the demo at: vems-somp.org
 
 | Course | Platform |
 |---|---|
-| Full-Stack Bootcamp | Udemy |
-| 100 Days of Python | Udemy |
+| Full-Stack Bootcamp - by Dr. Angela Yu | Udemy |
+| 100 Days of Python - by Dr. Angela Yu | Udemy |
 | HTML / CSS / JavaScript Essentials | Cisco Netacad |
+| Succeed in the Age of AI - by Dr. Angela Yu | Udemy |
+| Algoritmos e Lógica de Programação - by Nelio Alves | Udemy |
 
 ---
 
