@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://downcastfool6.github.io/vems-online-cv/" target="_blank">
+  <a href="https://europa.eu/europass/eportfolio/screen/share/186a5e43-2739-49e6-ad76-83205323c19a?lang=en" target="_blank">
     <img src="https://img.shields.io/badge/CV-Online-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/vissolela-cundi-a34b063a7/" target="_blank">
